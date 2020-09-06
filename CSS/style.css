@@ -201,7 +201,7 @@ footer {
     }
 }
 
-@media(max-width: 567px) {
+@media(max-width: 400px) {
     #showcase h1 {
         font-size: 35px;
     }
